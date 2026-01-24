@@ -18,4 +18,8 @@
     <string name="curated_for_user">Curated for User %1$d</string>
     <string name="your_watchlist">📌 Your Watchlist</string>
     <string name="watchlist_empty">Your watchlist is empty. Go to \'Top Picks\' to add movies!</string>
+    <string name="offline_title">No Connection</string>
+    <string name="offline_message">Please check your network connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="webview_error">Web content is not available.</string>
 </resources>
