@@ -146,7 +146,7 @@ st.markdown("""
 # Initialize recommender system
 @st.cache_resource
 def load_recommender():
-    return MovieRecommenderSystem('models/movie_recommender_model.pkl')
+    return MovieRecommenderSystem('models/recommender_system.joblib')
 
 # Load data
 @st.cache_data
