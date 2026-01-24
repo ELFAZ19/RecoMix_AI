@@ -17,6 +17,7 @@ def train_and_save_model():
                    'Musical', 'Mystery', 'Romance', 'SciFi', 'Thriller', 'War', 'Western']
     movies = pd.read_csv('data/ml-100k/u.item', sep='|', names=movies_cols, encoding='latin-1')
     
+    
     print("Training SVD model...")
     # Prepare data for Surprise
     reader = Reader(rating_scale=(1, 5))
