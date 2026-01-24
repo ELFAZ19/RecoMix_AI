@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">RecoMix</string>
+    <string name="top_picks">🔥 Top Picks</string>
+    <string name="watch_history">📜 Watch History</string>
+    <string name="insights">📊 Insights</string>
+    <string name="watchlist">📌 Watchlist</string>
+    <string name="user_control">👤 User Control</string>
+    <string name="preferences">⚙️ Preferences</string>
+    <string name="select_user_id">Select User ID</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="min_release_year">Min Release Year</string>
+    <string name="random_user">🎲 Random User</string>
+    <string name="generate_recommendations">🚀 Generate Recommendations</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+    <string name="movies_rated">Movies Rated</string>
+    <string name="avg_rating">Avg Rating</string>
+    <string name="fav_genre">Fav Genre</string>
+    <string name="curated_for_user">Curated for User %1$d</string>
+    <string name="your_watchlist">📌 Your Watchlist</string>
+    <string name="watchlist_empty">Your watchlist is empty. Go to \'Top Picks\' to add movies!</string>
 </resources>

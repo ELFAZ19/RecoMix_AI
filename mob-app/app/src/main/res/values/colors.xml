@@ -2,4 +2,28 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Streamlit Dark Theme Colors -->
+    <color name="background_dark">#0F172A</color>
+    <color name="background_mid">#1E1B4B</color>
+    <color name="background_light">#312E81</color>
+    
+    <!-- Purple/Indigo Gradient Colors -->
+    <color name="purple_primary">#4F46E5</color>
+    <color name="purple_secondary">#7C3AED</color>
+    <color name="purple_light">#818CF8</color>
+    <color name="purple_accent">#C084FC</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#E2E8F0</color>
+    <color name="text_tertiary">#94A3B8</color>
+    
+    <!-- Glass Card Colors -->
+    <color name="glass_card_bg">#0DFFFFFF</color>
+    <color name="glass_card_border">#1AFFFFFF</color>
+    
+    <!-- Rating Badge -->
+    <color name="rating_bg">#33F59E0B</color>
+    <color name="rating_text">#FBBF24</color>
 </resources>
